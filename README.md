@@ -18,9 +18,9 @@ phpやXAMPP、MySqlなどの設定は授業でおこなった設定と同じ。
 
 ### テーブル設定
 
-カラム：id,message,modified
+カラム：
 
-          id:主キー、AUTO_INCREMENT、Int
+    id:主キー、AUTO_INCREMENT、Int
           
     message :VARCHAR(200)
     
